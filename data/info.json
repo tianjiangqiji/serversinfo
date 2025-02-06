@@ -1,0 +1,11 @@
+{
+    "server1": {
+        "ip": "172.1.1.1",
+        "name": "Windows面板",
+        "note": "负责组均衡负载 续费地址： https://www.exemple.com/",
+        "panel_url": "http://www.exemple.com:8888/",
+        "server1_website1_name": "XXX管理系统",
+        "server1_website1_url": "http://www.exemple.com/url1",
+        "server1_website1_note": "测试环境"
+    }
+}
